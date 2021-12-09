@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">objectives-app</string>
+    <string name="app_name">Daily Objectives</string>
+    <string name="today_obj">Today\'s Objective</string>
 </resources>
